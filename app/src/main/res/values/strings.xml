@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOS App</string>
+    <string name="title_home">Home</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="keywordFieldText">SOS keyword</string>
+    <string name="defaultKeyword">help</string>
+    <string name="helpTextHome">* You can set your SOS contact list in the Contacts tab.</string>
+    <string name="permission_required">Audio Permission is needed.</string>
+    <string name="my_service_name">com.example.sosapp.VoiceService</string>
+</resources>
